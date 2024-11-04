@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#weather, #dobronin, #jihlava, #city {
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+hr {
+    margin: 20px 10px 10px 10px;
+}
+
+input, button {
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+}
